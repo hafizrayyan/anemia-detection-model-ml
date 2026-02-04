@@ -7,6 +7,7 @@ The project focuses on data preprocessing, model training, evaluation, and predi
 
 📌 Project Overview
 
+Live App : https://anemia-detection-model-by-hafiz-rayyan-asif.streamlit.app/
 Anemia is a common health condition that can be identified using key blood-related indicators.
 This project applies machine learning to assist in early detection by analyzing patterns in historical data.
 
